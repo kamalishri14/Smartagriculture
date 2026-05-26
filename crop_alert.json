@@ -1,0 +1,18 @@
+{
+  "cropAlerts": [
+    {
+      "alertId": "A001",
+      "farmId": "F001",
+      "alertReason": "High Temperature",
+      "alertSeverity": "High",
+      "alertStatus": "Open"
+    },
+    {
+      "alertId": "A002",
+      "farmId": "F002",
+      "alertReason": "Low Soil Moisture",
+      "alertSeverity": "Medium",
+      "alertStatus": "Closed"
+    }
+  ]
+}

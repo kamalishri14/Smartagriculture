@@ -1,0 +1,25 @@
+{
+  "crops": [
+    {
+      "cropId": "C001",
+      "cropName": "Rice",
+      "seasonType": "Kharif",
+      "expectedYield": 500,
+      "cropStatus": "Growing"
+    },
+    {
+      "cropId": "C002",
+      "cropName": "Wheat",
+      "seasonType": "Rabi",
+      "expectedYield": 350,
+      "cropStatus": "Harvested"
+    },
+    {
+      "cropId": "C003",
+      "cropName": "Sugarcane",
+      "seasonType": "Annual",
+      "expectedYield": 700,
+      "cropStatus": "Growing"
+    }
+  ]
+}

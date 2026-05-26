@@ -1,0 +1,16 @@
+cropId,cropName,seasonType,expectedYield,cropStatus
+C001,Rice,Kharif,500,Healthy
+C002,Wheat,Rabi,400,Healthy
+C003,Cotton,Kharif,300,Moderate
+C004,Maize,Kharif,350,Healthy
+C005,Sugarcane,Annual,800,Healthy
+C006,Millets,Rabi,200,Moderate
+C007,Groundnut,Kharif,250,Healthy
+C008,Tomato,AllSeason,150,Diseased
+C009,Potato,Rabi,300,Healthy
+C010,Chilli,Kharif,180,Moderate
+C011,Onion,Rabi,220,Healthy
+C012,Banana,Annual,600,Healthy
+C013,Carrot,Rabi,160,Healthy
+C014,Beans,Kharif,140,Moderate
+C015,Brinjal,AllSeason,170,Healthy

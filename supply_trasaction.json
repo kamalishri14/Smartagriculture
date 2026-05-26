@@ -1,0 +1,25 @@
+{
+  "supplyTransactions": [
+    {
+      "transactionId": "T001",
+      "cropId": "C001",
+      "quantitySupplied": 200,
+      "supplyDate": "2026-05-18",
+      "supplyStatus": "Delivered"
+    },
+    {
+      "transactionId": "T002",
+      "cropId": "C002",
+      "quantitySupplied": 150,
+      "supplyDate": "2026-05-19",
+      "supplyStatus": "Pending"
+    },
+    {
+      "transactionId": "T003",
+      "cropId": "C003",
+      "quantitySupplied": 0,
+      "supplyDate": "2026-05-20",
+      "supplyStatus": "Cancelled"
+    }
+  ]
+}

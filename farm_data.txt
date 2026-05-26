@@ -1,0 +1,16 @@
+farmId,farmName,location,farmType,operationalStatus
+F001,GreenField,Chennai,Rice,Active
+F002,SunFarm,Coimbatore,Wheat,Active
+F003,BlueAgro,Madurai,Cotton,Inactive
+F004,DeltaFarm,Thanjavur,Rice,Active
+F005,AgriZone,Trichy,Millets,Active
+F006,KrishnaFarm,Salem,Sugarcane,Active
+F007,HarvestHub,Erode,Maize,Active
+F008,GreenRoots,Villupuram,Pulses,Inactive
+F009,NatureFarm,Tirunelveli,Rice,Active
+F010,AgriGold,Chennai,Vegetables,Active
+F011,SmartAgri,Coimbatore,Cotton,Active
+F012,RuralFarm,Madurai,Wheat,Active
+F013,FieldMax,Trichy,Millets,Active
+F014,AgroTech,Salem,Rice,Active
+F015,PrimeFarm,Erode,Sugarcane,Active

@@ -1,0 +1,32 @@
+{
+  "sensorReadings": [
+    {
+      "readingId": "R001",
+      "farmId": "F001",
+      "soilMoisture": 35,
+      "temperature": 29,
+      "readingDate": "2026-05-20"
+    },
+    {
+      "readingId": "R002",
+      "farmId": "F002",
+      "soilMoisture": 45,
+      "temperature": 31,
+      "readingDate": "2026-05-21"
+    },
+    {
+      "readingId": "R003",
+      "farmId": "F003",
+      "soilMoisture": -10,
+      "temperature": 38,
+      "readingDate": "2026-05-22"
+    },
+    {
+      "readingId": "R004",
+      "farmId": "F001",
+      "soilMoisture": 50,
+      "temperature": 42,
+      "readingDate": "2026-05-23"
+    }
+  ]
+}

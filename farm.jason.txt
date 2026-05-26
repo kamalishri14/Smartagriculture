@@ -1,0 +1,19 @@
+{
+  "farmId": "F001",
+  "farmName": "Green Farm",
+  "location": "Chennai",
+  "sensors": [
+    {
+      "readingId": "R1",
+      "soilMoisture": 35,
+      "temperature": 28,
+      "readingDate": "2026-05-25"
+    },
+    {
+      "readingId": "R2",
+      "soilMoisture": 42,
+      "temperature": 30,
+      "readingDate": "2026-05-26"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+alertId,farmId,alertReason,alertSeverity,alertStatus
+A001,F001,Low Soil Moisture,Medium,Open
+A002,F002,High Temperature,High,Open
+A003,F003,Soil Contamination,High,Closed
+A004,F004,Normal Condition,Low,Closed
+A005,F005,Pest Detected,High,Open
+A006,F001,Drought Risk,High,Open
+A007,F002,Heavy Rain Warning,Medium,Open
+A008,F003,Crop Disease,High,Open
+A009,F004,Water Overflow,Medium,Closed
+A010,F005,Nutrient Deficiency,Low,Open
+A011,F001,Heat Stress,High,Open
+A012,F002,Low Humidity,Medium,Open
+A013,F003,Sensor Failure,High,Open
+A014,F004,Normal Growth,Low,Closed
+A015,F005,Harvest Ready,Low,Closed
